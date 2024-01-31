@@ -2,7 +2,7 @@
 
 * Студент: [Марина Болгова](https://up.htmlacademy.ru/htmlcss/39/user/1395145).
 * Наставник: [Ольга Тюлихова](https://htmlacademy.ru/profile/id523263).
-
+* Сайт: [Седона-Болгова Марина](https://marina-morskaya.github.io/1395145-sedona-39/)
 ---
 
 _Не удаляйте и не обращайте внимание на файлы:_<br>
